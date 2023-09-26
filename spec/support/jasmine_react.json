@@ -1,0 +1,13 @@
+{
+  "spec_dir": "__test__/jasmine/",
+  "spec_files": [
+    "**/getWeather.[sS]pec.js"
+  ],
+  "helpers": [
+    "../../spec/helpers/babel.cjs",
+    "../../spec/helpers/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+
+}

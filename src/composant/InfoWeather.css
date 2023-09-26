@@ -1,0 +1,54 @@
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    margin: 70px 150px;
+    min-width: 400px;
+}
+.mainDiv p {
+    margin: 10px;
+}
+.div_name {
+    display: flex;
+}
+.div_name > img {
+    height: 50px;
+    margin-left: 10px;
+}
+.div_temp, .div_wind {
+    display: flex;
+    align-items: center;
+
+}
+.div_wind {
+    flex-direction: row-reverse;
+}
+.div_temp svg, .div_wind svg, .sun-info svg {
+    font-size: 25px;
+}
+.sun-info div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sun-info p {
+    margin-top: 0;
+}
+
+.info_sky {
+    margin-top: 20px;
+}
+
+.d-flex {
+    display: flex
+}
+h1 {
+    font-size: 3.5rem;
+}
+h3 {
+   margin-bottom: 50px;
+    color: #707070;
+}
+p{
+    font-size: 20px;
+}
+

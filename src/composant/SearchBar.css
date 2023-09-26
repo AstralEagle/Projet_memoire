@@ -1,0 +1,24 @@
+.div_search {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    min-width: 250px;
+}
+.form_search{
+    width: 100%;
+    background-color: white;
+    border-radius: 6px;
+    overflow: hidden;
+    display: flex;
+}
+.input_search {
+    padding-left: 10px;
+    border: none;
+    outline: none;
+    flex: 1;
+}
+
+.input_submit {
+    background-color: white;
+    border: none;
+}
