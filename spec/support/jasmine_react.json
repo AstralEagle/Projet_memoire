@@ -1,7 +1,7 @@
 {
   "spec_dir": "__test__/jasmine/",
   "spec_files": [
-    "**/getWeather.[sS]pec.js"
+    "**/*.[sS]pec.js"
   ],
   "helpers": [
     "../../spec/helpers/babel.cjs",
