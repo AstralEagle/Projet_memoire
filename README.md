@@ -15,7 +15,7 @@ Et enfin nous pouvons lancer le projet grace a
 
 ## Test
 
-Les test peut etre lancer a la racine du projet.
+Les test peuvent être lancer a la racine du projet.
 
 ### Jest
 
